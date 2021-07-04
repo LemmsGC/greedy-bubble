@@ -1,0 +1,1 @@
+obj_bubble.scale = 0.8;
